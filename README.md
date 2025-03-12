@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d95417b7-c5f1-4b2f-8465-ac691c677778)
+![Matheus](https://github.com/user-attachments/assets/4ce564b4-2ae2-46a8-8ecc-480b8ce629f7)
 
 🧠 I'm a Software Analysis and Development graduate.<br>
 🤝 I help people get started with programming in the [Plataforma Impact](https://plataformaimpact.org/) social project.<br>
