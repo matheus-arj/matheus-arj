@@ -1,9 +1,12 @@
 ![Matheus](https://github.com/user-attachments/assets/4ce564b4-2ae2-46a8-8ecc-480b8ce629f7)
 
+# Matheus Araujo Santos
+### PT
 🧠 Sou graduado em Análise e Desenvolvimento de Sistemas. <br>
 🤝 Ajudo pessoas a iniciarem na programação através do projeto social [Plataforma Impact](https://plataformaimpact.org/). <br>
 🙂 Sou uma pessoa extrovertida e adoro aprender coisas novas.
 
+### EN
 🧠 I'm a Software Analysis and Development graduate.<br>
 🤝 I help people get started with programming in the [Plataforma Impact](https://plataformaimpact.org/) social project.<br>
 🙂 I'm an outgoing person and I love learning new things.
